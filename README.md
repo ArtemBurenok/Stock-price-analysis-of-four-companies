@@ -12,3 +12,7 @@ Libraries are used for analysis:
 + pandas
 
 ## Contains
+
+This repository contains a .pynb file with stock price analysis.
+
+From the beginning 
