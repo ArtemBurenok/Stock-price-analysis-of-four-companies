@@ -22,6 +22,10 @@ The first step is to download the data. The yfinance library was used for this p
 
 Histograms and density plots for daily profits for each stock were also plotted.
 
+![image](https://github.com/user-attachments/assets/8245bfe8-58f1-41f0-b3fa-c493b9001340)
 
 
-The next step is to identify the relationship between the share prices. For this purpose the correlation coefficient was calculated, and graphs of dependencies were plotted
+The next step is to identify the relationship between the share prices. For this purpose the correlation coefficient was calculated, and graphs of dependencies were plotted.
+
+![image](https://github.com/user-attachments/assets/ac33397f-e49b-47ba-86d5-9a1e8f3d6d85)
+
