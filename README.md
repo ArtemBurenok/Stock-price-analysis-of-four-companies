@@ -15,4 +15,6 @@ Libraries are used for analysis:
 
 This repository contains a .pynb file with stock price analysis.
 
-From the beginning 
+The first step is to download the data. The yfinance library was used for this purpose. After that, price charts and moving average charts with intervals of 10, 20 and 30 were plotted.
+
+![image](https://github.com/user-attachments/assets/ba9a9946-20cc-487d-a496-7d4647a41e51)
