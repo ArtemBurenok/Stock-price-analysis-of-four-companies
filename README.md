@@ -18,3 +18,10 @@ This repository contains a .pynb file with stock price analysis.
 The first step is to download the data. The yfinance library was used for this purpose. After that, price charts and moving average charts with intervals of 10, 20 and 30 were plotted.
 
 ![image](https://github.com/user-attachments/assets/ba9a9946-20cc-487d-a496-7d4647a41e51)
+
+
+Histograms and density plots for daily profits for each stock were also plotted.
+
+
+
+The next step is to identify the relationship between the share prices. For this purpose the correlation coefficient was calculated, and graphs of dependencies were plotted
