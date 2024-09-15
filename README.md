@@ -3,7 +3,7 @@ This paper analyzes the behavior of stocks in the future with Monte Carlo method
 
 ## Technology
 
-Libraries are used for vishttps://www.yandex.ru/?win=308&clid=2256434-306&from=dist_bookmarkualization: 
+Libraries are used for visualisation 
 + seaborn
 + matplotlib 
 
